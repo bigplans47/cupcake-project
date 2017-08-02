@@ -1,0 +1,11 @@
+.flashy {
+  color: red;
+  font-style: italic;
+  }
+
+.best {
+  color: green;
+  font-style: oblique;
+  font-family: fantasy;
+  font-size: 55px;
+}
